@@ -6,8 +6,8 @@ A basic command-line chatbot using OpenAI's GPT-3.5-turbo.
 
 1. Clone the repo:
    ```
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   cd YOUR-REPO-NAME
+   gh repo clone RajsekharPal7/Simple_Chatbot
+   cd Simple_Chatbot
    ```
 
 2. Install dependencies:
